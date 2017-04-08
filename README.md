@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Sup fool
+
+This is just me doing the tutorial.
